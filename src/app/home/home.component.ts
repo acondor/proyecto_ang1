@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class HomeComponent{
-	public titulo="pagina de home de la web";
+	public titulo="Bienvenido a la pagina principal";
 }
